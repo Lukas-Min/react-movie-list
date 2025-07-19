@@ -7,6 +7,6 @@ Movie Search: Use the search function to browse movies from the TMDB database wi
 
 **Optimized Search:** The search functionality is optimized with a debouncer to improve performance and reduce unnecessary API calls.
 
-**Appwrite Integration: **Appwrite is used as the backend database to store and track user searches, improving personalized experiences.
+**Appwrite Integration:** Appwrite is used as the backend database to store and track user searches, improving personalized experiences.
 
 **Responsive Design:** Fully responsive, ensuring a great user experience across devices.
