@@ -3,10 +3,10 @@ This application allows users to search for movies directly from the TMDB (The M
 Features
 Movie Search: Use the search function to browse movies from the TMDB database with real-time results.
 
-Trending Movies: A feature to view the most popular and trending movies from TMDB.
+**Trending Movies:** A feature to view the most popular and trending movies from TMDB.
 
-Optimized Search: The search functionality is optimized with a debouncer to improve performance and reduce unnecessary API calls.
+**Optimized Search:** The search functionality is optimized with a debouncer to improve performance and reduce unnecessary API calls.
 
-Appwrite Integration: Appwrite is used as the backend database to store and track user searches, improving personalized experiences.
+**Appwrite Integration: **Appwrite is used as the backend database to store and track user searches, improving personalized experiences.
 
-Responsive Design: Fully responsive, ensuring a great user experience across devices.
+**Responsive Design:** Fully responsive, ensuring a great user experience across devices.
